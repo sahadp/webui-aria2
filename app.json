@@ -10,5 +10,5 @@
       "url": "https://github.com/heroku/heroku-buildpack-static"
     }
   ]
- "stack": "container",
+  "stack": "container",
 }
